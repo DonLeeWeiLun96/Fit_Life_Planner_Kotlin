@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "589047742413",
+    "project_id": "calendar-de17c",
+    "storage_bucket": "calendar-de17c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589047742413:android:529f654bfcb083b2edce84",
+        "android_client_info": {
+          "package_name": "com.fyp.fitlifeplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589047742413-a90sm8ns25vc65h7963v4ctrmrgig7ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.fitlifeplanner",
+            "certificate_hash": "778bd01ded804962ea8dd7cf40d1b76bdd10f7d9"
+          }
+        },
+        {
+          "client_id": "589047742413-v1c54p8dssqialfihe1v4np234n7j81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUjNf3RkHrxoFdXHk1y-LDKPXCRV0e3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589047742413-v1c54p8dssqialfihe1v4np234n7j81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589047742413:android:3ec3dd2a54548873edce84",
+        "android_client_info": {
+          "package_name": "com.fyp.fitlifeplanner2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589047742413-ba22c5s6137sp1cm9dm1fdpncbg9m886.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.fitlifeplanner2",
+            "certificate_hash": "778bd01ded804962ea8dd7cf40d1b76bdd10f7d9"
+          }
+        },
+        {
+          "client_id": "589047742413-v1c54p8dssqialfihe1v4np234n7j81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUjNf3RkHrxoFdXHk1y-LDKPXCRV0e3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589047742413-v1c54p8dssqialfihe1v4np234n7j81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589047742413:android:eb419250b0150241edce84",
+        "android_client_info": {
+          "package_name": "com.fyp.fitlifeplannerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589047742413-h50h81cdnini8lj6s2h4v8408udq4kik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.fitlifeplannerapplication",
+            "certificate_hash": "778bd01ded804962ea8dd7cf40d1b76bdd10f7d9"
+          }
+        },
+        {
+          "client_id": "589047742413-v1c54p8dssqialfihe1v4np234n7j81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUjNf3RkHrxoFdXHk1y-LDKPXCRV0e3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589047742413-v1c54p8dssqialfihe1v4np234n7j81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589047742413:android:eba3669e254444a2edce84",
+        "android_client_info": {
+          "package_name": "com.fyp.fitlifeplannerkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589047742413-27lvb132me6lhp1hdrsj8k2rvpeusp29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.fitlifeplannerkotlin",
+            "certificate_hash": "778bd01ded804962ea8dd7cf40d1b76bdd10f7d9"
+          }
+        },
+        {
+          "client_id": "589047742413-v1c54p8dssqialfihe1v4np234n7j81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUjNf3RkHrxoFdXHk1y-LDKPXCRV0e3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589047742413-v1c54p8dssqialfihe1v4np234n7j81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
